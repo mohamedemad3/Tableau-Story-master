@@ -1,6 +1,5 @@
 # Create a Tableau story
 
-### Udacity Data Analyst Nanodegree (DAND) - Term 2 - Project 3
 
 ## Project Overview
 
